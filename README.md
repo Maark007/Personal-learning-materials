@@ -1,6 +1,6 @@
 ## Material learning resource
 
-Dedicated repository as study material.
+Dedicated repository as a personal study material.
 
 ### Current topics covered:
 
