@@ -4,7 +4,7 @@ Facade is a structural design pattern that provides a simplified interface to a 
 
 ## Applicability
 
-- Utilize o padrão Facade quando você precisa ter uma interface limitada mas simples para um subsistema complexo.
+- Use the Facade pattern when you need to have a limited but simple interface for a complex subsystem.
 
-- Utilize o Facade quando você quer estruturar um subsistema em camadas.
+- Use Facade when you want to structure a subsystem in layers.
 

@@ -4,4 +4,4 @@ Adapter is a structural design pattern that allows objects with incompatible int
 
 ## Applicability
 
-- Utilize o padrão quando você quer reutilizar diversas subclasses existentes que não possuam alguma funcionalidade comum que não pode ser adicionada a superclasse.
+- Use the pattern when you want to reuse several existing subclasses that don't have some common functionality that cannot be added to the superclass.
